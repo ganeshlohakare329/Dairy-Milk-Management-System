@@ -1,1 +1,1 @@
-# Dairy-Milk-Management-System
+# dairy-management-system
